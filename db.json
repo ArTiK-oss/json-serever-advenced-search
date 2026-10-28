@@ -1,0 +1,74 @@
+{
+	"categories": [
+		{ "id": 1, "slug": "smartphones", "name": "Смартфоны" },
+		{ "id": 2, "slug": "laptops", "name": "Ноутбуки" },
+		{ "id": 3, "slug": "audio", "name": "Аудио и наушники" },
+		{ "id": 4, "slug": "accessories", "name": "Аксессуары" }
+	],
+	"products": [
+		{
+			"id": 1,
+			"title": "iPhone 15 Pro",
+			"price": 999,
+			"category": "smartphones",
+			"description": "Флагманский смартфон с титановым корпусом и мощным процессором A17 Pro.",
+			"thumbnail": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500"
+		},
+		{
+			"id": 2,
+			"title": "Samsung Galaxy S24",
+			"price": 899,
+			"category": "smartphones",
+			"description": "Современный смартфон с поддержкой искусственного интеллекта и ярким AMOLED-экраном.",
+			"thumbnail": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500"
+		},
+		{
+			"id": 3,
+			"title": "MacBook Pro 16 M3",
+			"price": 2499,
+			"category": "laptops",
+			"description": "Профессиональный ноутбук для тяжелых задач, программирования и монтажа видео.",
+			"thumbnail": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500"
+		},
+		{
+			"id": 4,
+			"title": "ASUS ROG Zephyrus",
+			"price": 1799,
+			"category": "laptops",
+			"description": "Мощный игровой ноутбук с дискретной видеокартой и высокой частотой обновления экрана.",
+			"thumbnail": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500"
+		},
+		{
+			"id": 5,
+			"title": "AirPods Pro 2",
+			"price": 249,
+			"category": "audio",
+			"description": "Беспроводные наушники с активным шумоподавлением и пространственным звуком.",
+			"thumbnail": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=500"
+		},
+		{
+			"id": 6,
+			"title": "Sony WH-1000XM5",
+			"price": 399,
+			"category": "audio",
+			"description": "Полноразмерные наушники с лучшим на рынке шумоподавлением и чистым звуком.",
+			"thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+		},
+		{
+			"id": 7,
+			"title": "Механическая клавиатура Keychron",
+			"price": 110,
+			"category": "accessories",
+			"description": "Беспроводная механическая клавиатура с RGB-подсветкой и отличным тактильным откликом.",
+			"thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+		},
+		{
+			"id": 8,
+			"title": "Игровая мышь Logitech G Pro",
+			"price": 130,
+			"category": "accessories",
+			"description": "Сверхлегкая беспроводная мышь для киберспорта и динамичных игр.",
+			"thumbnail": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500"
+		}
+	]
+}
